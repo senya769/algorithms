@@ -1,4 +1,4 @@
-package algorithm.search.sorted.selection;
+package algorithm.sorted.selection;
 
 import java.util.Arrays;
 
